@@ -1,5 +1,5 @@
 /*********************************************************************************
-* Author   : 	Ahmed Sayed & Baraa ADEL
+* Author   : 	Ahmed Sayed & Baraa 
 *
 * Version  : 	V1.1
 *
